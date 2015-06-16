@@ -1,0 +1,27 @@
+#BlueJ package file
+package.editor.height=807
+package.editor.width=1162
+package.editor.x=-4
+package.editor.y=-4
+package.numDependencies=0
+package.numTargets=3
+package.showExtends=true
+package.showUses=true
+target1.height=62
+target1.name=DiscoRave
+target1.type=PackageTarget
+target1.width=80
+target1.x=160
+target1.y=10
+target2.height=62
+target2.name=TombExplorer
+target2.type=PackageTarget
+target2.width=100
+target2.x=10
+target2.y=90
+target3.height=62
+target3.name=OneKey
+target3.type=PackageTarget
+target3.width=80
+target3.x=120
+target3.y=90
